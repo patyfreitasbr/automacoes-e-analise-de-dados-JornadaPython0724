@@ -14,7 +14,7 @@ Este repositório contém projetos variados, cada um abordando diferentes concei
 
 | Nome   | Link  |
 |--------|---------|
-| Automação: Cadastro produtos em site |     [acesse](https://github.com/patyfreitasbr/projetos-Python/tree/main/cadastro-produto-em-site) |
+| Automação: Cadastro produtos em site |     [acesse](https://github.com/patyfreitasbr/automacoes-e-analise-de-dados-JornadaPython0724/tree/main/cadastro-produto-em-site) |
 
 
 ## Como visualizar cada projeto
